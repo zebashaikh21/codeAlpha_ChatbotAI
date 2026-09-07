@@ -18,4 +18,4 @@ AI ChatBot is a Java-based chatbot that uses Natural Language Processing (NLP) t
 - OOP Concepts
 
 ## Author
-Harshit Raj
+Zeba Praveen 
